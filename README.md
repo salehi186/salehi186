@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali,  @salehi186
-- 👀 I’m interested in frontend technologies (HTML, CSS JavaScript) 
+- 👀 I’m interested in frontend technologies 
 - 🌱 I’m currently learning how to write a vscode extention
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me salehi186@gmail.com
